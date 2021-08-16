@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Comm.(Mathematics) in Actuarial Science and Mathematical Statistics, Stellenbosch University, 1997
+* Hons.B.Comm. in Mathematics, Stellenbosch University, 1998
+* M.Comm. in Computer Science, Stellenbosch University, 2003
+* Ph.D in Mathematical Statistics, Stellenbosch University, 2008
+
+Information below to be updated from template!
 
 Work experience
 ======
